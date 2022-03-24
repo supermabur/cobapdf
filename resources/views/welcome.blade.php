@@ -96,11 +96,7 @@
                 </div>
 
                 <div>
-                    {{-- <embed src="{{ url('2697') }}" type="application/pdf" width="100%" height="700px"> --}}
-                        
-                        {{ url('/laraview/#../2697.pdf') }}
-                        {{-- <iframe src ="{{ asset('/laraview/#../2697.pdf') }}" width="1000px" height="600px"></iframe> --}}
-                        <iframe src ="{{ asset('/laraview/#../2697') }}" width="1000px" height="600px"></iframe>
+
                 </div>
             </div>
         </div>
